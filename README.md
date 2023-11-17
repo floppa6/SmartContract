@@ -1,2 +1,2 @@
 # SmartContractTest
-testing some solidity codes
+testing out some solidity contracts
