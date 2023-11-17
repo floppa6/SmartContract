@@ -1,5 +1,4 @@
 import { ethers } from 'ethers'
-
 /**
  * Deploy the given contract
  * @param {string} contractName name of the contract to deploy
